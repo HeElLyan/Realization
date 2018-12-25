@@ -1,7 +1,7 @@
 # FileReaderForEGE
 
 ## About FileReaderForEGE
-LabyrinthGenerator is a great-developed file-reader for exams created for study works. We believe development must be an enjoyable and creative experience to be truly fulfilling.
+FileReaderForEGE is a great-developed file-reader for exams created for study works. We believe development must be an enjoyable and creative experience to be truly fulfilling.
 
 ## Quick start
 ### Example of using a program
