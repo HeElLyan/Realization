@@ -1,5 +1,11 @@
 package HomeworkProject;
 
+/**
+ * This class was created especially for reading your essay on such exam as EGE.
+ * Good luck!
+ * @author Khayaleeva Izida and Shaidullina Elvina
+ */
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -8,6 +14,9 @@ public abstract class EGEFile implements FileReader {
 
     public String filename;
 
+    /**
+     * @param filename - the name of file
+     */
     public EGEFile(String filename){
         this.filename = filename;
     }
